@@ -1,0 +1,11 @@
+.tag-link--item {
+  text-decoration: none;
+  font-family: 'Avenir';
+  font-size: 20px;
+  color: gray;
+  opacity: 0.7;
+}
+.tag-link--item:hover {
+  color: orange;
+  opacity: 1;
+}
